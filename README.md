@@ -1,7 +1,3 @@
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/iPedroxxy/iPedroxxy/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h1 align="center">Hey Guys 👋</h1>
