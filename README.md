@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Welcome to my GitHub! I'm [Your Name], a passionate technology explorer. I always seek to push my limits, solve complex problems and adopt the latest technologies. Join me as we schedule exciting projects, collaborate on cutting-edge solutions, and embark on a journey of continuous learning and growth. Let's build something amazing together! 💻✨</p>
+<p align="left">Welcome to my GitHub! I'm Pedro Piras, a passionate technology explorer. I always seek to push my limits, solve complex problems and adopt the latest technologies. Join me as we schedule exciting projects, collaborate on cutting-edge solutions, and embark on a journey of continuous learning and growth. Let's build something amazing together! 💻✨</p>
 
 ###
 
