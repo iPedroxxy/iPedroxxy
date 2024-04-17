@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://images.ctfassets.net/l3l0sjr15nav/4o6Nicy6NGYBbNXn2L2SUZ/117e2181d436fdd7a6afa5e1a29860fa/gifs_sao_legais.gif"  />
+  <img height="200px" src="https://images.ctfassets.net/l3l0sjr15nav/4o6Nicy6NGYBbNXn2L2SUZ/117e2181d436fdd7a6afa5e1a29860fa/gifs_sao_legais.gif"  />
 </div>
 
 ###
